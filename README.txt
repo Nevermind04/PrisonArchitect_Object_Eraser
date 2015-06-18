@@ -46,6 +46,12 @@
  paste the line directly below into a File Explorer address bar:
  %localappdata%\Introversion\Prison Architect\saves
 
+--RESTORING A BACKUP--
+ If your regular prison file is 'My Prison.prison', then the backup should be named
+ something like My Prison.prison-BACKUP-20150618-001611
+ Simply rename the file, removing the -BACKUP-20150618-001611 from the end and your
+ savegame will be recognized by Prison Architect again.
+
 --(MAYBE) PLANNED FEATURES--
  These are things I have in mind for the future. None of these features will be released on
  any sort of schedule, but rather whenever I get around to it. I work full-time and I will
