@@ -64,6 +64,9 @@
  - Improving the aesthetics of this utility - it is currently bare-bones and ugly
 
 --CHANGELOG--
+ 0.5.3 - 2015-06-18
+ - Signed with certificate to prevent Windows Smart Screen from complaining
+
  0.5.2 - 2015-06-18
  - Initial Stable Release
  - Object list is dynamically populated from savegame file; should work on future versions

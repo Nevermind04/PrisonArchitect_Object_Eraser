@@ -11,7 +11,7 @@
 #AutoIt3Wrapper_Compile_both=N
 ;Resource Infos
 #AutoIt3Wrapper_Res_Description=Prison Architect Object Eraser
-#AutoIt3Wrapper_Res_Fileversion=0.5.2.0
+#AutoIt3Wrapper_Res_Fileversion=0.5.3.0
 #AutoIt3Wrapper_Res_Language=1033
 #AutoIt3Wrapper_Res_LegalCopyright=Written by Reddit user Nevermind04
 #EndRegion
@@ -32,7 +32,7 @@ _main()
 
 Func _globalvars()
 	Global $ProgName="Prison Architect Object Eraser"
-	Global $ProgVer="0.5.2"
+	Global $ProgVer="0.5.3"
 	Global $PA_objectlist_array[1][3],$PA_saveread_array
 EndFunc ;_globalvars
 
