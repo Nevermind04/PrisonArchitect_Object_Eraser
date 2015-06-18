@@ -1,27 +1,27 @@
 --PRISONARCHITECT OBJECT ERASER README--
- Prison Architect Object Eraser has been designed to be a small, simple utility to assist in
- bulk erasing specific objects from Prison Architect save games. If you have a problem with
- the operation of this utility, please send me a private message at Reddit.
+ Prison Architect Object Eraser has been designed to be a small, simple utility to assist
+ in bulk erasing specific objects from Prison Architect save games. If you have a problem
+ with the operation of this utility, please send me a private message at Reddit.
  https://reddit.com/message/compose/?to=Nevermind04
 
  Prison Architect is an excellent game, but the game is currently at the alpha stage of the
- development cycle (at the time of writing this README). Every once in a while, there are new
- objects added to the Prison Architect game that do not quite behave like you would expect
- them to behave. From dirty prison uniforms being left all over prisons to food trays piling
- up to cooked food being dumped forever into storage rooms to mail courier bags being
- delivered until your prison is full, these little bugs only have one thing in common:
- Hundreds of objects littering the rooms of your prisons.
+ development cycle (at the time of writing this README). Every once in a while, there are
+ new objects added to the Prison Architect game that do not quite behave like you would
+ expect them to behave. From dirty prison uniforms being left all over prisons to food
+ trays piling up to cooked food being dumped forever into storage rooms to mail courier
+ bags being delivered until your prison is full, these little bugs only have one thing in
+ common: Hundreds of objects littering the rooms of your prisons.
 
  Objects can be manually deleted line by line in your save files, but that is an extremely
- tedious and time-consuming task. This utility is NOT designed to fix the bugs that cause the
- objects to pile up, but rather to fully automate the process of removing these annoying
- objects from your prison's savegame files.
+ tedious and time-consuming task. This utility is NOT designed to fix the bugs that cause
+ the objects to pile up, but rather to fully automate the process of removing these
+ annoying objects from your prison's savegame files.
 
- This utility should be able to recognize new objects as the Prison Architect developers add
- things to the game. If a new object is added and this utility fails to find it, please
- message me at Reddit (see the link on the 5th line of this README) and I will issue an update
- via GitHub as soon as time permits. This utility works for the PC version of Prison Architect
- ONLY. I have absolutely no intentions of supporting other platforms, ever.
+ This utility should be able to recognize new objects as the Prison Architect developers
+ add things to the game. If a new object is added and this utility fails to find it, please
+ message me at Reddit (see the link on the 5th line of this README) and I will issue an
+ update via GitHub as soon as time permits. This utility works for the PC version of Prison
+ Architect ONLY. I have absolutely no intentions of supporting other platforms, ever.
 
 --USAGE--
  01) Close Prison Architect
@@ -29,14 +29,14 @@
  03) Select your savegame file from the drop-down list at the top
  04) Press the "Load Save File" button
  05) Wait for your file to load (it should not take more than a few seconds)
- 06) All of the objects in your prison will be listed with their quantities in the big box in
-     the center of the utility
+ 06) All of the objects in your prison will be listed with their quantities in the big box
+     in the center of the utility
  07) Click the list to select the objects you would like to erase
  08) Press the "Erase Objects" button to erase these objects
- 09) When you are finished erasing objects, click the "Save File" button to save the changes
-     into your savegame
- 10) A backup of your savegame will automatically be created in your savegame directory (this
-     utility will not display your backups to reduce clutter)
+ 09) When you are finished erasing objects, click the "Save File" button to save the
+     changes into your savegame
+ 10) A backup of your savegame will automatically be created in your savegame directory
+     (this utility will not display your backups to reduce clutter)
  11) Start Prison Architect, load your savegame, and enjoy your (hopefully) less cluttered
      prison!
 
@@ -51,17 +51,17 @@
  any sort of schedule, but rather whenever I get around to it. I work full-time and I will
  maintain this utility in my space time, so these features may be done tomorrow, next week,
  next month, or never.
- - Erase prisoners by security level (Min Sec, Normal Sec, Max Sec, Supermax, Protected, etc.)
+ - Erase prisoners by security level (Min Sec, Normal Sec, Max Sec, Supermax, Protected)
  - Erase rooms of one type (Cell, Shower, Canteen, etc.)
- - A limit on the number of savegame backups in your savegame directory before automatically
-   removing old backups (to prevent clutter)
+ - A limit on the number of savegame backups in your savegame directory before
+   automatically removing old backups (to prevent clutter)
  - Improving the aesthetics of this utility - it is currently bare-bones and ugly
 
 --CHANGELOG--
  0.5.2 - 2015-06-18
  - Initial Stable Release
- - Object list is dynamically populated from savegame file; should work on future versions of
-   Prison Architect
+ - Object list is dynamically populated from savegame file; should work on future versions
+   of Prison Architect
  - Automatic backups when saving changes to file
 
 --SOFTWARE LICENSE--
