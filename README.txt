@@ -48,7 +48,7 @@
 
 --RESTORING A BACKUP--
  If your regular prison file is 'My Prison.prison', then the backup should be named
- something like My Prison.prison-BACKUP-20150618-001611
+ something like 'My Prison.prison-BACKUP-20150618-001611'
  Simply rename the file, removing the -BACKUP-20150618-001611 from the end and your
  savegame will be recognized by Prison Architect again.
 
